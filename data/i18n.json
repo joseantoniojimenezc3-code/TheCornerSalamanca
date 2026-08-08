@@ -1,0 +1,253 @@
+{
+  "version": 1,
+  "en": {
+    "seo": {
+      "title": "The Corner Salamanca | Brunch & Specialty Coffee in Madrid",
+      "description": "The Corner Salamanca — premium brunch, specialty coffee and drinks in Barrio de Salamanca, Madrid.",
+      "ogDescription": "Premium brunch, specialty coffee and drinks in Barrio de Salamanca, Madrid.",
+      "locale": "en_GB",
+      "alternateLocale": "es_ES",
+      "ogImageAlt": "The Corner Salamanca — brunch and specialty coffee in Madrid."
+    },
+    "a11y": {
+      "skip": "Skip to main content",
+      "home": "The Corner Salamanca, home",
+      "backHome": "Back to The Corner Salamanca home",
+      "primaryNav": "Primary navigation",
+      "mobileNav": "Mobile navigation",
+      "siteNav": "Site navigation",
+      "footerNav": "Footer navigation",
+      "language": "Language",
+      "gallery": "The Corner Salamanca gallery",
+      "process": "Prepared with care",
+      "languageChanged": "Language set to English."
+    },
+    "nav": {
+      "story": "Story",
+      "brunch": "Brunch",
+      "coffee": "Coffee",
+      "menu": "Menu",
+      "gallery": "Gallery",
+      "visit": "Visit",
+      "open": "Menu",
+      "close": "Close",
+      "meta": "Madrid · Barrio de Salamanca"
+    },
+    "hero": {
+      "descriptor": "Coffee · Brunch · Drinks",
+      "statement": "A slower kind of morning.",
+      "cta": "View Menu",
+      "place": "Barrio de Salamanca<br>Madrid",
+      "scroll": "Scroll",
+      "caption": "The Corner · Madrid",
+      "imageAlt": "A brunch table with pancakes, iced coffee, juice and cake."
+    },
+    "philosophy": {
+      "eyebrow": "01 · Our Philosophy",
+      "title": "The pleasure of taking your time.",
+      "lead": "Fresh ingredients, thoughtful cooking and specialty coffee served with care.",
+      "brandAlt": "The Corner Salamanca embroidered on a dark staff uniform.",
+      "process1Alt": "A strawberry being placed onto freshly prepared pancakes.",
+      "process2Alt": "Roasted tomatoes being added to a freshly prepared toast."
+    },
+    "brunch": {
+      "eyebrow": "02 · Brunch",
+      "title": "The Corner<br>Brunch.",
+      "lead": "Eggs Benedict, pancakes, signature toasts and seasonal plates, prepared to order.",
+      "primaryAlt": "A complete brunch with eggs, avocado, toast, coffee, juice and cake.",
+      "secondaryAlt": "Salmon and avocado toast served with juice and a cold drink."
+    },
+    "coffee": {
+      "eyebrow": "03 · Specialty Coffee",
+      "title": "Made with attention.",
+      "lead": "From espresso to latte art, every cup is prepared with precision.",
+      "primaryAlt": "Milk being poured into a handmade cup to finish a latte.",
+      "secondaryAlt": "A latte and a slice of chocolate cake in warm window light."
+    },
+    "toasts": {
+      "eyebrow": "04 · Signature Toasts",
+      "title": "Simple ingredients, beautifully composed.",
+      "lead": "Fresh sourdough, seasonal ingredients and careful presentation.",
+      "imageAlt": "Salmon toast with avocado, cream cheese, sprouts and tomatoes."
+    },
+    "menuSection": {
+      "eyebrow": "05 · Menu",
+      "title": "From brunch to<br>evening tapas.",
+      "lead": "Brunch, specialty coffee, sweet plates, signature toasts and evening tapas.",
+      "imageAlt": "The Corner Salamanca menu beside brunch dishes, coffee and a seasonal fruit bowl.",
+      "loading": "Loading menu…",
+      "noscript": "Please enable JavaScript to view the full menu.",
+      "error": "The menu could not be loaded. Please refresh the page or ask our team in the café.",
+      "notesLabel": "Menu notes"
+    },
+    "gallery": {
+      "eyebrow": "06 · Gallery",
+      "title": "The Corner,<br>captured.",
+      "lead": "",
+      "instagram": "Follow @thecornersalamanca",
+      "alt1": "A composed brunch plate with coffee and fresh orange juice on pale marble.",
+      "alt2": "Almond croissants freshly finished with sliced almonds and powdered sugar.",
+      "alt3": "A member of the kitchen team finishing a plate by hand.",
+      "alt4": "Fresh espresso being poured over ice at a sunlit table.",
+      "alt5": "Matcha being poured over milk to finish a chilled drink.",
+      "alt6": "Tomato toast with sprouts and cherry tomatoes on pale marble.",
+      "dialog": "The Corner Salamanca gallery viewer",
+      "close": "Close",
+      "previous": "Previous image",
+      "next": "Next image",
+      "open": "Open gallery image"
+    },
+    "visit": {
+      "eyebrow": "07 · Visit Us",
+      "title": "See you at<br>The Corner.",
+      "lead": "Brunch, specialty coffee and drinks in Barrio de Salamanca.",
+      "address": "Address",
+      "hours": "Hours",
+      "monWed": "Mon — Wed",
+      "thuSat": "Thu — Sat",
+      "sunday": "Sunday",
+      "directions": "Get directions",
+      "reviews": "Google Reviews",
+      "signAlt": "The Corner Salamanca sign on the stone facade of the café.",
+      "mapTitle": "Map showing The Corner Salamanca on Calle de José Ortega y Gasset in Madrid"
+    },
+    "footer": {
+      "address": "Address",
+      "hours": "Hours",
+      "monWed": "Mon — Wed · 09:00 — 20:00",
+      "thuSat": "Thu — Sat · 09:00 — 00:00",
+      "sunday": "Sunday · 10:00 — 19:00",
+      "brunch": "Brunch",
+      "coffee": "Coffee",
+      "menu": "Menu",
+      "gallery": "Gallery",
+      "instagram": "Instagram",
+      "tagline": "Coffee · Brunch · Drinks"
+    }
+  },
+  "es": {
+    "seo": {
+      "title": "The Corner Salamanca | Brunch y café de especialidad en Madrid",
+      "description": "The Corner Salamanca — brunch premium, café de especialidad y bebidas en el Barrio de Salamanca, Madrid.",
+      "ogDescription": "Brunch premium, café de especialidad y bebidas en el Barrio de Salamanca, Madrid.",
+      "locale": "es_ES",
+      "alternateLocale": "en_GB",
+      "ogImageAlt": "The Corner Salamanca — brunch y café de especialidad en Madrid."
+    },
+    "a11y": {
+      "skip": "Saltar al contenido principal",
+      "home": "The Corner Salamanca, inicio",
+      "backHome": "Volver al inicio de The Corner Salamanca",
+      "primaryNav": "Navegación principal",
+      "mobileNav": "Navegación móvil",
+      "siteNav": "Navegación del sitio",
+      "footerNav": "Navegación del pie de página",
+      "language": "Idioma",
+      "gallery": "Galería de The Corner Salamanca",
+      "process": "Preparado con cuidado",
+      "languageChanged": "Idioma cambiado a español."
+    },
+    "nav": {
+      "story": "Historia",
+      "brunch": "Brunch",
+      "coffee": "Café",
+      "menu": "Carta",
+      "gallery": "Galería",
+      "visit": "Visítanos",
+      "open": "Menú",
+      "close": "Cerrar",
+      "meta": "Madrid · Barrio de Salamanca"
+    },
+    "hero": {
+      "descriptor": "Café · Brunch · Bebidas",
+      "statement": "Mañanas sin prisa.",
+      "cta": "Ver carta",
+      "place": "Barrio de Salamanca<br>Madrid",
+      "scroll": "Descubrir",
+      "caption": "The Corner · Madrid",
+      "imageAlt": "Una mesa de brunch con pancakes, café frío, zumo y bizcocho."
+    },
+    "philosophy": {
+      "eyebrow": "01 · Nuestra filosofía",
+      "title": "El placer de tomarse el tiempo.",
+      "lead": "Ingredientes frescos, cocina cuidada y café de especialidad. Todo preparado con atención.",
+      "brandAlt": "The Corner Salamanca bordado sobre el uniforme oscuro del equipo.",
+      "process1Alt": "Una fresa colocándose sobre unos pancakes recién preparados.",
+      "process2Alt": "Tomates asados añadiéndose a una tosta recién preparada."
+    },
+    "brunch": {
+      "eyebrow": "02 · Brunch",
+      "title": "El brunch<br>de The Corner.",
+      "lead": "Eggs Benedict, pancakes, tostas de la casa y platos de temporada, preparados al momento.",
+      "primaryAlt": "Un brunch completo con huevos, aguacate, tosta, café, zumo y bizcocho.",
+      "secondaryAlt": "Tosta de salmón y aguacate acompañada de zumo y una bebida fría."
+    },
+    "coffee": {
+      "eyebrow": "03 · Café de especialidad",
+      "title": "Hecho con atención.",
+      "lead": "Del espresso al latte art, cada café se prepara con precisión.",
+      "primaryAlt": "Leche vertiéndose en una taza artesanal para terminar un latte.",
+      "secondaryAlt": "Un latte y una porción de tarta de chocolate bajo la luz cálida de la ventana."
+    },
+    "toasts": {
+      "eyebrow": "04 · Tostas de la casa",
+      "title": "Ingredientes sencillos, cuidadosamente compuestos.",
+      "lead": "Pan de masa madre, ingredientes de temporada y una presentación cuidada.",
+      "imageAlt": "Tosta de salmón con aguacate, queso crema, brotes y tomates."
+    },
+    "menuSection": {
+      "eyebrow": "05 · Carta",
+      "title": "Del brunch a<br>las tapas.",
+      "lead": "Brunch, café de especialidad, platos dulces, tostas de la casa y tapas.",
+      "imageAlt": "La carta de The Corner Salamanca junto a platos de brunch, café y fruta de temporada.",
+      "loading": "Cargando carta…",
+      "noscript": "Activa JavaScript para consultar la carta completa.",
+      "error": "No se ha podido cargar la carta. Actualiza la página o consulta a nuestro equipo en el local.",
+      "notesLabel": "Notas de la carta"
+    },
+    "gallery": {
+      "eyebrow": "06 · Galería",
+      "title": "The Corner,<br>en imágenes.",
+      "lead": "",
+      "instagram": "Síguenos @thecornersalamanca",
+      "alt1": "Un plato de brunch con café y zumo de naranja natural sobre mármol claro.",
+      "alt2": "Croissants de almendra recién terminados con almendra laminada y azúcar glas.",
+      "alt3": "Un miembro del equipo de cocina terminando un plato a mano.",
+      "alt4": "Espresso recién servido sobre hielo en una mesa iluminada por el sol.",
+      "alt5": "Matcha vertiéndose sobre leche para terminar una bebida fría.",
+      "alt6": "Tosta de tomate con brotes y tomates cherry sobre mármol claro.",
+      "dialog": "Visor de la galería de The Corner Salamanca",
+      "close": "Cerrar",
+      "previous": "Imagen anterior",
+      "next": "Imagen siguiente",
+      "open": "Abrir imagen de la galería"
+    },
+    "visit": {
+      "eyebrow": "07 · Visítanos",
+      "title": "Nos vemos en<br>The Corner.",
+      "lead": "Brunch, café de especialidad y bebidas en el Barrio de Salamanca.",
+      "address": "Dirección",
+      "hours": "Horario",
+      "monWed": "Lun — Mié",
+      "thuSat": "Jue — Sáb",
+      "sunday": "Domingo",
+      "directions": "Cómo llegar",
+      "reviews": "Reseñas en Google",
+      "signAlt": "Cartel de The Corner Salamanca sobre la fachada de piedra de la cafetería.",
+      "mapTitle": "Mapa de The Corner Salamanca en la calle José Ortega y Gasset de Madrid"
+    },
+    "footer": {
+      "address": "Dirección",
+      "hours": "Horario",
+      "monWed": "Lun — Mié · 09:00 — 20:00",
+      "thuSat": "Jue — Sáb · 09:00 — 00:00",
+      "sunday": "Domingo · 10:00 — 19:00",
+      "brunch": "Brunch",
+      "coffee": "Café",
+      "menu": "Carta",
+      "gallery": "Galería",
+      "instagram": "Instagram",
+      "tagline": "Café · Brunch · Bebidas"
+    }
+  }
+}

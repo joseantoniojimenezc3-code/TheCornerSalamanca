@@ -1,0 +1,949 @@
+{
+  "version": 1,
+  "total": 91,
+  "selectionCount": 15,
+  "images": [
+    {
+      "id": "dsc-5586",
+      "category": "bakery",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "original": "/assets/images/originals/bakery/dsc-5586.jpg",
+      "optimized": "/assets/images/optimized/bakery/dsc-5586.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5591",
+      "category": "drinks",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/drinks/dsc-5591.jpg",
+      "optimized": "/assets/images/optimized/drinks/dsc-5591.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5598",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5598.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5598.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5608",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5608.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5608.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5612",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5612.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5612.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5618",
+      "category": "coffee",
+      "width": 1638,
+      "height": 2048,
+      "aspectRatio": 0.7998,
+      "original": "/assets/images/originals/coffee/dsc-5618.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5618.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5620",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5620.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5620.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5626",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5626.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5626.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5629",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5629.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5629.webp",
+      "selectedFor": [
+        "coffee"
+      ]
+    },
+    {
+      "id": "dsc-5630",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5630.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5630.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5635",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5635.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5635.webp",
+      "selectedFor": [
+        "coffee-support",
+        "gallery"
+      ]
+    },
+    {
+      "id": "dsc-5639",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5639.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5639.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5642",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5642.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5642.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5646",
+      "category": "bakery",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "original": "/assets/images/originals/bakery/dsc-5646.jpg",
+      "optimized": "/assets/images/optimized/bakery/dsc-5646.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5649",
+      "category": "bakery",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "original": "/assets/images/originals/bakery/dsc-5649.jpg",
+      "optimized": "/assets/images/optimized/bakery/dsc-5649.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5652",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5652.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5652.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5655",
+      "category": "drinks",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/drinks/dsc-5655.jpg",
+      "optimized": "/assets/images/optimized/drinks/dsc-5655.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5660",
+      "category": "drinks",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/drinks/dsc-5660.jpg",
+      "optimized": "/assets/images/optimized/drinks/dsc-5660.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5661",
+      "category": "drinks",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/drinks/dsc-5661.jpg",
+      "optimized": "/assets/images/optimized/drinks/dsc-5661.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5664",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5664.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5664.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5665",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5665.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5665.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5666",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5666.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5666.webp",
+      "selectedFor": [
+        "brunch-support"
+      ]
+    },
+    {
+      "id": "dsc-5667",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5667.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5667.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5671",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5671.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5671.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5674",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5674.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5674.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5675",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5675.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5675.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5676",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5676.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5676.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5683",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5683.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5683.webp",
+      "selectedFor": [
+        "summer-drinks"
+      ]
+    },
+    {
+      "id": "dsc-5690",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5690.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5690.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5692",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5692.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5692.webp",
+      "selectedFor": [
+        "brunch"
+      ]
+    },
+    {
+      "id": "dsc-5696",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5696.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5696.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5698",
+      "category": "toasts",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/toasts/dsc-5698.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5698.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5700",
+      "category": "toasts",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "original": "/assets/images/originals/toasts/dsc-5700.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5700.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5701",
+      "category": "toasts",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/toasts/dsc-5701.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5701.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5702",
+      "category": "coffee",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/coffee/dsc-5702.jpg",
+      "optimized": "/assets/images/optimized/coffee/dsc-5702.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5704",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5704.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5704.webp",
+      "selectedFor": [
+        "gallery"
+      ]
+    },
+    {
+      "id": "dsc-5707",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5707.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5707.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5708",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5708.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5708.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5709",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5709.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5709.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5716",
+      "category": "brunch",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "original": "/assets/images/originals/brunch/dsc-5716.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5716.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5720",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5720.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5720.webp",
+      "selectedFor": [
+        "hero",
+        "gallery"
+      ]
+    },
+    {
+      "id": "dsc-5724",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5724.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5724.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5726",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5726.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5726.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5737",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5737.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5737.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5742",
+      "category": "brunch",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "original": "/assets/images/originals/brunch/dsc-5742.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5742.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5752",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5752.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5752.webp",
+      "selectedFor": [
+        "editorial-support"
+      ]
+    },
+    {
+      "id": "dsc-5754",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5754.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5754.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5755",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5755.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5755.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5758",
+      "category": "toasts",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/toasts/dsc-5758.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5758.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5760",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5760.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5760.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5763",
+      "category": "brunch",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brunch/dsc-5763.jpg",
+      "optimized": "/assets/images/optimized/brunch/dsc-5763.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5764",
+      "category": "toasts",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/toasts/dsc-5764.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5764.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5765",
+      "category": "toasts",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/toasts/dsc-5765.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5765.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5766",
+      "category": "toasts",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/toasts/dsc-5766.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5766.webp",
+      "selectedFor": [
+        "signature-toasts"
+      ]
+    },
+    {
+      "id": "dsc-5767",
+      "category": "toasts",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/toasts/dsc-5767.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5767.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5768",
+      "category": "toasts",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/toasts/dsc-5768.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5768.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5770",
+      "category": "toasts",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/toasts/dsc-5770.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5770.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5771",
+      "category": "toasts",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/toasts/dsc-5771.jpg",
+      "optimized": "/assets/images/optimized/toasts/dsc-5771.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5773",
+      "category": "bakery",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/bakery/dsc-5773.jpg",
+      "optimized": "/assets/images/optimized/bakery/dsc-5773.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5776",
+      "category": "bakery",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "original": "/assets/images/originals/bakery/dsc-5776.jpg",
+      "optimized": "/assets/images/optimized/bakery/dsc-5776.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5778",
+      "category": "bakery",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/bakery/dsc-5778.jpg",
+      "optimized": "/assets/images/optimized/bakery/dsc-5778.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5781",
+      "category": "bakery",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/bakery/dsc-5781.jpg",
+      "optimized": "/assets/images/optimized/bakery/dsc-5781.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5782",
+      "category": "bakery",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/bakery/dsc-5782.jpg",
+      "optimized": "/assets/images/optimized/bakery/dsc-5782.webp",
+      "selectedFor": [
+        "gallery"
+      ]
+    },
+    {
+      "id": "dsc-5783",
+      "category": "bakery",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/bakery/dsc-5783.jpg",
+      "optimized": "/assets/images/optimized/bakery/dsc-5783.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5785",
+      "category": "brand",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brand/dsc-5785.jpg",
+      "optimized": "/assets/images/optimized/brand/dsc-5785.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5788",
+      "category": "brand",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brand/dsc-5788.jpg",
+      "optimized": "/assets/images/optimized/brand/dsc-5788.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5790",
+      "category": "brand",
+      "width": 1366,
+      "height": 2048,
+      "aspectRatio": 0.667,
+      "original": "/assets/images/originals/brand/dsc-5790.jpg",
+      "optimized": "/assets/images/optimized/brand/dsc-5790.webp",
+      "selectedFor": [
+        "brand-support"
+      ]
+    },
+    {
+      "id": "dsc-5792",
+      "category": "brand",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/brand/dsc-5792.jpg",
+      "optimized": "/assets/images/optimized/brand/dsc-5792.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5794",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5794.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5794.webp",
+      "selectedFor": [
+        "process-support"
+      ]
+    },
+    {
+      "id": "dsc-5796",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5796.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5796.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5797",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5797.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5797.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5800",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5800.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5800.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5801",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5801.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5801.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5805",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5805.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5805.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5811",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5811.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5811.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5814",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5814.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5814.webp",
+      "selectedFor": [
+        "process-support"
+      ]
+    },
+    {
+      "id": "dsc-5823",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5823.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5823.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5826",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5826.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5826.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5827",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5827.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5827.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5833",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5833.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5833.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5835",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5835.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5835.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5839",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5839.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5839.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5845",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5845.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5845.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5850",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5850.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5850.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5853",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5853.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5853.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5856",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5856.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5856.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5867",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5867.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5867.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5872",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5872.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5872.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5873",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5873.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5873.webp",
+      "selectedFor": []
+    },
+    {
+      "id": "dsc-5876",
+      "category": "process",
+      "width": 1365,
+      "height": 2048,
+      "aspectRatio": 0.6665,
+      "original": "/assets/images/originals/process/dsc-5876.jpg",
+      "optimized": "/assets/images/optimized/process/dsc-5876.webp",
+      "selectedFor": [
+        "process-support"
+      ]
+    },
+    {
+      "id": "brand-storefront-sign",
+      "category": "brand",
+      "width": 724,
+      "height": 1086,
+      "aspectRatio": 0.6667,
+      "original": "/assets/images/originals/brand/brand-storefront-sign.jpg",
+      "optimized": "/assets/images/optimized/brand/brand-storefront-sign.webp",
+      "selectedFor": [
+        "visit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+/*
+ * CSS entry-point manifest.
+ * Modules are linked independently in index.html so browsers can fetch them
+ * in parallel without an @import waterfall. Preserve that dependency order.
+ */
