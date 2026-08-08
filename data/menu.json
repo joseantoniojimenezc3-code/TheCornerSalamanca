@@ -1,0 +1,856 @@
+{
+  "version": 2,
+  "currency": "EUR",
+  "defaultLanguage": "en",
+  "notes": {
+    "fresh": {
+      "en": "Every dish is prepared to order.",
+      "es": "Todos nuestros platos se elaboran al momento."
+    },
+    "allergens": {
+      "en": "Please ask our team about allergens before ordering.",
+      "es": "Consulta los alérgenos con nuestro equipo antes de pedir."
+    },
+    "bakery": {
+      "en": "Bakery and sweets are available in the display case.",
+      "es": "Bollería y dulces disponibles en vitrina."
+    }
+  },
+  "badges": {
+    "vegan": {
+      "en": "Vegan option",
+      "es": "Opción vegana"
+    },
+    "signature": {
+      "en": "House favourite",
+      "es": "Plato estrella"
+    }
+  },
+  "categories": [
+    {
+      "id": "brunch-set",
+      "label": {
+        "en": "Brunch Set",
+        "es": "Brunch"
+      },
+      "hours": "09:00 — 16:00",
+      "intro": {
+        "en": "Includes coffee or tea (espresso, americano, latte or cappuccino), fresh orange juice, seasonal fruit and Greek yogurt with granola. Choose one main dish.",
+        "es": "Incluye café o té (espresso, americano, latte o cappuccino), zumo natural de naranja, fruta de temporada y yogur griego con granola. Elige un plato principal."
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Green",
+            "es": "Green"
+          },
+          "price": "21.90",
+          "description": {
+            "en": "Organic sourdough, avocado, fresh spinach, cherry tomatoes and a poached egg.",
+            "es": "Pan de masa madre eco, aguacate, espinacas frescas, tomates cherry y huevo poché."
+          }
+        },
+        {
+          "name": {
+            "en": "Classic",
+            "es": "Clásico"
+          },
+          "price": "21.90",
+          "description": {
+            "en": "Creamy scrambled eggs with York ham or turkey and melted cheese.",
+            "es": "Huevos revueltos cremosos con jamón York o pavo y queso fundido."
+          }
+        },
+        {
+          "name": {
+            "en": "Castellano",
+            "es": "Castellano"
+          },
+          "price": "21.90",
+          "description": {
+            "en": "Creamy scrambled eggs with Burgos black pudding on organic sourdough.",
+            "es": "Huevos revueltos cremosos con morcilla de Burgos sobre pan de masa madre eco."
+          },
+          "badges": [
+            "signature"
+          ]
+        },
+        {
+          "name": {
+            "en": "Benedict",
+            "es": "Benedict"
+          },
+          "price": "23.90",
+          "description": {
+            "en": "Two poached eggs, avocado, mixed leaves, hollandaise, cherry tomato and brioche. Choose York ham or turkey, crispy bacon or Atlantic salmon.",
+            "es": "Dos huevos poché, aguacate, mix de hojas verdes, salsa holandesa, tomate cherry y pan brioche. Elige York o pavo, bacon crujiente o Atlántico (salmón)."
+          },
+          "badges": [
+            "signature"
+          ]
+        },
+        {
+          "name": {
+            "en": "Mimosa add-on",
+            "es": "Extra Mimosa"
+          },
+          "price": "5.50",
+          "description": {
+            "en": "Fresh orange juice and sparkling wine.",
+            "es": "Zumo de naranja y espumoso."
+          }
+        }
+      ]
+    },
+    {
+      "id": "eggs-bagels",
+      "label": {
+        "en": "Eggs & Bagels",
+        "es": "Huevos y Bagels"
+      },
+      "hours": "09:00 — 20:00",
+      "groups": [
+        {
+          "label": {
+            "en": "Creamy Scrambled Eggs",
+            "es": "Huevos revueltos cremosos"
+          },
+          "intro": {
+            "en": "Served with organic sourdough.",
+            "es": "Servidos con pan de masa madre eco."
+          },
+          "items": [
+            {
+              "name": {
+                "en": "York ham or turkey",
+                "es": "Jamón York o pavo"
+              },
+              "price": "11.90"
+            },
+            {
+              "name": {
+                "en": "Burgos black pudding",
+                "es": "Morcilla de Burgos"
+              },
+              "price": "11.90"
+            },
+            {
+              "name": {
+                "en": "Iberian ham",
+                "es": "Jamón ibérico"
+              },
+              "price": "14.20"
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Eggs Benedict",
+            "es": "Eggs Benedict"
+          },
+          "intro": {
+            "en": "Brioche with avocado, mixed leaves, hollandaise, cherry tomato and two poached eggs.",
+            "es": "Pan brioche con base de aguacate, mix de hojas, salsa holandesa, cherry y dos huevos poché."
+          },
+          "items": [
+            {
+              "name": {
+                "en": "Classic · York ham or turkey",
+                "es": "Clásico · York o pavo"
+              },
+              "price": "13.90"
+            },
+            {
+              "name": {
+                "en": "Smoked · Pulled pork",
+                "es": "Ahumado · Pulled pork"
+              },
+              "price": "13.90"
+            },
+            {
+              "name": {
+                "en": "Green · Avocado",
+                "es": "Green · Aguacate"
+              },
+              "price": "12.00"
+            },
+            {
+              "name": {
+                "en": "Crispy bacon",
+                "es": "Bacon crujiente"
+              },
+              "price": "13.90",
+              "badges": [
+                "signature"
+              ]
+            },
+            {
+              "name": {
+                "en": "Atlantic · Salmon",
+                "es": "Atlántico · Salmón"
+              },
+              "price": "15.90"
+            },
+            {
+              "name": {
+                "en": "Iberian",
+                "es": "Ibérico"
+              },
+              "price": "16.00",
+              "badges": [
+                "signature"
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Bagels",
+            "es": "Bagels"
+          },
+          "intro": {
+            "en": "All our bagels include egg and toasted bagel bread.",
+            "es": "Todos nuestros bagels incluyen huevo y pan de bagel tostado."
+          },
+          "items": [
+            {
+              "name": {
+                "en": "Iberian",
+                "es": "Ibérico"
+              },
+              "price": "14.20",
+              "description": {
+                "en": "Iberian ham, grated tomato and fried egg.",
+                "es": "Jamón ibérico, tomate rallado y huevo frito."
+              }
+            },
+            {
+              "name": {
+                "en": "Pulled Pork",
+                "es": "Pulled Pork"
+              },
+              "price": "13.90",
+              "description": {
+                "en": "Slow-cooked pulled pork with coleslaw.",
+                "es": "Carne desmenuzada con coleslaw."
+              },
+              "badges": [
+                "signature"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "toasts",
+      "label": {
+        "en": "Toasts",
+        "es": "Tostas"
+      },
+      "intro": {
+        "en": "All toasts are served on organic sourdough.",
+        "es": "Todas nuestras tostas se sirven con pan de masa madre eco."
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Classic Tomato",
+            "es": "Clásica"
+          },
+          "price": "4.50",
+          "description": {
+            "en": "Grated tomato, extra virgin olive oil and sea salt flakes.",
+            "es": "Tomate rayado, AOVE y sal en escamas."
+          },
+          "badges": [
+            "vegan"
+          ]
+        },
+        {
+          "name": {
+            "en": "Salmon",
+            "es": "Salmón"
+          },
+          "price": "9.50",
+          "description": {
+            "en": "Smoked salmon, avocado and cream cheese.",
+            "es": "Salmón ahumado, aguacate y queso crema."
+          }
+        },
+        {
+          "name": {
+            "en": "Avocado",
+            "es": "Aguacate"
+          },
+          "price": "6.90",
+          "description": {
+            "en": "Avocado, extra virgin olive oil and sea salt flakes.",
+            "es": "Aguacate, AOVE y sal en escamas."
+          },
+          "badges": [
+            "vegan"
+          ]
+        },
+        {
+          "name": {
+            "en": "Hummus",
+            "es": "Hummus"
+          },
+          "price": "6.50",
+          "description": {
+            "en": "House hummus, cherry tomato, seeds and extra virgin olive oil.",
+            "es": "Hummus casero, tomate cherry, semillas y AOVE."
+          },
+          "badges": [
+            "vegan"
+          ]
+        },
+        {
+          "name": {
+            "en": "Iberian",
+            "es": "Ibérica"
+          },
+          "price": "9.90",
+          "description": {
+            "en": "Iberian ham, grated tomato, extra virgin olive oil and sea salt flakes.",
+            "es": "Jamón ibérico, tomate rayado, AOVE y sal en escamas."
+          }
+        },
+        {
+          "name": {
+            "en": "Truffle Bikini",
+            "es": "Bikini trufado"
+          },
+          "price": "11.50",
+          "description": {
+            "en": "Ham and cheese toasted sandwich with truffle sauce.",
+            "es": "Bikini de jamón y queso con salsa trufada."
+          },
+          "badges": [
+            "signature"
+          ]
+        },
+        {
+          "name": {
+            "en": "Add poached egg",
+            "es": "Añade huevo poché"
+          },
+          "price": "2.25"
+        },
+        {
+          "name": {
+            "en": "Gluten-free bread swap",
+            "es": "Cambio a pan sin gluten"
+          },
+          "price": "1.50"
+        }
+      ]
+    },
+    {
+      "id": "sweet",
+      "label": {
+        "en": "Pancakes & Sweet",
+        "es": "Pancakes y Dulce"
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "Pancakes",
+            "es": "Pancakes"
+          },
+          "items": [
+            {
+              "name": {
+                "en": "American Classic",
+                "es": "Clásico Americano"
+              },
+              "price": "15.90",
+              "description": {
+                "en": "Pancakes, maple syrup, butter, scrambled eggs and bacon.",
+                "es": "Pancakes, sirope de arce, mantequilla, huevos revueltos y bacon."
+              },
+              "badges": [
+                "signature"
+              ]
+            },
+            {
+              "name": {
+                "en": "Dulce de Leche",
+                "es": "Dulce de Leche"
+              },
+              "price": "13.90",
+              "description": {
+                "en": "Pancake stack, seasonal fresh fruit, chantilly cream and maple syrup.",
+                "es": "Torre de pancakes, fruta fresca de temporada, chantilly y sirope de arce."
+              }
+            },
+            {
+              "name": {
+                "en": "Nutella · The Corner",
+                "es": "Nutella · The Corner"
+              },
+              "price": "13.90",
+              "description": {
+                "en": "Pancake stack, Nutella, seasonal fresh fruit and maple syrup.",
+                "es": "Torre de pancakes, Nutella, fruta fresca de temporada y sirope de arce."
+              },
+              "badges": [
+                "signature"
+              ]
+            },
+            {
+              "name": {
+                "en": "French Toast",
+                "es": "French Toast"
+              },
+              "price": "13.90",
+              "description": {
+                "en": "Brioche, red-berry jam, seasonal fruit and honey.",
+                "es": "Pan brioche con mermelada de frutos rojos, frutas de temporada y miel."
+              }
+            },
+            {
+              "name": {
+                "en": "Add a scoop of ice cream",
+                "es": "Añade una bola de helado"
+              },
+              "price": "2.00"
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Bowls",
+            "es": "Bowls"
+          },
+          "items": [
+            {
+              "name": {
+                "en": "Greek Yogurt & Granola",
+                "es": "Yogur griego y granola"
+              },
+              "price": "10.50",
+              "description": {
+                "en": "Natural Greek yogurt with granola, seasonal fruit and honey.",
+                "es": "Yogur griego natural con granola, fruta de temporada y miel."
+              }
+            },
+            {
+              "name": {
+                "en": "Seasonal Fruit",
+                "es": "Fruta de temporada"
+              },
+              "price": "6.50"
+            },
+            {
+              "name": {
+                "en": "Pistachio cream add-on",
+                "es": "Extra crema de pistacho"
+              },
+              "price": "1.50"
+            },
+            {
+              "name": {
+                "en": "Peanut or almond add-on",
+                "es": "Extra cacahuete o almendra"
+              },
+              "price": "1.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coffee",
+      "label": {
+        "en": "Coffee",
+        "es": "Cafés"
+      },
+      "intro": {
+        "en": "Oat or coconut milk + €0.50.",
+        "es": "Leche vegetal de avena o coco + 0,50 €."
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Espresso",
+            "es": "Espresso"
+          },
+          "price": "2.75"
+        },
+        {
+          "name": {
+            "en": "Double Espresso",
+            "es": "Doble espresso"
+          },
+          "price": "3.25"
+        },
+        {
+          "name": {
+            "en": "Cortado Macchiato",
+            "es": "Cortado macchiato"
+          },
+          "price": "2.80"
+        },
+        {
+          "name": {
+            "en": "Americano",
+            "es": "Americano"
+          },
+          "price": "3.20"
+        },
+        {
+          "name": {
+            "en": "Latte",
+            "es": "Latte"
+          },
+          "price": "3.75",
+          "variants": [
+            {
+              "label": {
+                "en": "XL",
+                "es": "XL"
+              },
+              "price": "4.75"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Cappuccino",
+            "es": "Cappuccino"
+          },
+          "price": "3.75",
+          "variants": [
+            {
+              "label": {
+                "en": "XL",
+                "es": "XL"
+              },
+              "price": "4.75"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Flat White",
+            "es": "Flat White"
+          },
+          "price": "3.75"
+        },
+        {
+          "name": {
+            "en": "Latte Macchiato",
+            "es": "Latte Macchiato"
+          },
+          "price": "3.75"
+        },
+        {
+          "name": {
+            "en": "Mocha · White Chocolate · Vanilla",
+            "es": "Mocca Choco · Choco Blanco · Vainilla"
+          },
+          "price": "4.40"
+        },
+        {
+          "name": {
+            "en": "Caramel Macchiato",
+            "es": "Caramel Macchiato"
+          },
+          "price": "4.40"
+        },
+        {
+          "name": {
+            "en": "Matcha Latte",
+            "es": "Matcha Latte"
+          },
+          "price": "5.00"
+        },
+        {
+          "name": {
+            "en": "Chai Latte",
+            "es": "Chai Latte"
+          },
+          "price": "4.70"
+        },
+        {
+          "name": {
+            "en": "Fresh Milk",
+            "es": "Vaso de leche fresca"
+          },
+          "price": "1.90"
+        },
+        {
+          "name": {
+            "en": "Colacao · Nesquik",
+            "es": "Colacao · Nesquik"
+          },
+          "price": "2.40"
+        },
+        {
+          "name": {
+            "en": "Hot Chocolate",
+            "es": "Chocolate caliente"
+          },
+          "price": "3.90"
+        }
+      ]
+    },
+    {
+      "id": "cold-tea",
+      "label": {
+        "en": "Iced & Tea",
+        "es": "Frío e Infusiones"
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "Iced",
+            "es": "Frío"
+          },
+          "items": [
+            {
+              "name": {
+                "en": "Iced Latte",
+                "es": "Iced Latte"
+              },
+              "price": "4.50"
+            },
+            {
+              "name": {
+                "en": "Iced Mocha",
+                "es": "Iced Mocca Choco"
+              },
+              "price": "4.90"
+            },
+            {
+              "name": {
+                "en": "Iced Matcha",
+                "es": "Iced Matcha"
+              },
+              "price": "5.25"
+            },
+            {
+              "name": {
+                "en": "Iced Chai Latte",
+                "es": "Iced Chai Latte"
+              },
+              "price": "5.00"
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Tea & Infusions",
+            "es": "Té e infusiones"
+          },
+          "items": [
+            {
+              "name": {
+                "en": "Tea & Infusions",
+                "es": "Té e infusiones"
+              },
+              "price": "3.10",
+              "description": {
+                "en": "Earl Grey, forest fruits, jasmine, black, red, rooibos, green, chamomile, linden or mint.",
+                "es": "Earl Grey, frutos del bosque, jazmín, negro, rojo, rooibos, verde, manzanilla, tila o menta."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soft-drinks",
+      "label": {
+        "en": "Water & Soft Drinks",
+        "es": "Aguas y Refrescos"
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Mineral Water",
+            "es": "Agua mineral"
+          },
+          "price": "3.20"
+        },
+        {
+          "name": {
+            "en": "Sparkling Water",
+            "es": "Agua con gas"
+          },
+          "price": "3.50"
+        },
+        {
+          "name": {
+            "en": "Tonic Water",
+            "es": "Tónica"
+          },
+          "price": "3.50"
+        },
+        {
+          "name": {
+            "en": "Coca-Cola · Coca-Cola Zero",
+            "es": "Coca-Cola · Coca-Cola Zero"
+          },
+          "price": "3.50"
+        },
+        {
+          "name": {
+            "en": "Lemon Aquarius",
+            "es": "Aquarius de limón"
+          },
+          "price": "3.50"
+        },
+        {
+          "name": {
+            "en": "Fuze Tea",
+            "es": "Fuze Tea"
+          },
+          "price": "3.50"
+        },
+        {
+          "name": {
+            "en": "Orange · Lemon Fanta",
+            "es": "Fanta naranja · limón"
+          },
+          "price": "3.50"
+        },
+        {
+          "name": {
+            "en": "Fresh Orange Juice",
+            "es": "Zumo de naranja natural"
+          },
+          "price": "3.50"
+        },
+        {
+          "name": {
+            "en": "Juices",
+            "es": "Zumos"
+          },
+          "price": "3.50"
+        }
+      ]
+    },
+    {
+      "id": "tapas",
+      "label": {
+        "en": "Tapas",
+        "es": "Tapas"
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Burgos Black Pudding Montadito",
+            "es": "Montadito de morcilla de Burgos (D.O.C)"
+          },
+          "price": "10.00"
+        },
+        {
+          "name": {
+            "en": "Beef or Four-Cheese Empanaditas",
+            "es": "Empanaditas de carne o cuatro quesos"
+          },
+          "price": "4.50 ea.",
+          "description": {
+            "en": "Served with chimichurri and the house sauce.",
+            "es": "Servidas con salsa chimichurri y especial de la casa."
+          }
+        },
+        {
+          "name": {
+            "en": "Artisan Cheese Selection",
+            "es": "Ración de quesos artesanos"
+          },
+          "price": "15.00",
+          "variants": [
+            {
+              "label": {
+                "en": "Half portion",
+                "es": "Media ración"
+              },
+              "price": "7.50"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Hand-Cut Iberian Ham",
+            "es": "Jamón ibérico cortado a mano"
+          },
+          "price": "13.00",
+          "variants": [
+            {
+              "label": {
+                "en": "Half portion",
+                "es": "Media ración"
+              },
+              "price": "6.50"
+            }
+          ]
+        },
+        {
+          "name": {
+            "en": "Pulled Pork Mini Burgers",
+            "es": "Mini hamburguesas de pulled pork"
+          },
+          "price": "7.50",
+          "description": {
+            "en": "Served with coleslaw.",
+            "es": "Servidas con coleslaw."
+          }
+        },
+        {
+          "name": {
+            "en": "Truffle Bikini",
+            "es": "Bikini de jamón y queso con salsa trufada"
+          },
+          "price": "11.50"
+        }
+      ]
+    },
+    {
+      "id": "gildas",
+      "label": {
+        "en": "Gildas",
+        "es": "Gildas"
+      },
+      "items": [
+        {
+          "name": {
+            "en": "Anchovy",
+            "es": "Anchoas"
+          },
+          "price": "3.00",
+          "description": {
+            "en": "2 olives, 2 piparras and 2 anchovies.",
+            "es": "2 aceitunas, 2 piparras y 2 anchoas."
+          }
+        },
+        {
+          "name": {
+            "en": "Boquerón",
+            "es": "Boquerón"
+          },
+          "price": "3.00",
+          "description": {
+            "en": "2 olives, 2 piparras and 2 white anchovies.",
+            "es": "2 aceitunas, 2 piparras y 2 boquerones."
+          }
+        },
+        {
+          "name": {
+            "en": "Cecina",
+            "es": "Cecina"
+          },
+          "price": "3.00",
+          "description": {
+            "en": "2 olives, cured beef and cheese.",
+            "es": "2 aceitunas, cecina y queso."
+          }
+        }
+      ]
+    }
+  ]
+}

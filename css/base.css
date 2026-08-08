@@ -1,0 +1,90 @@
+html {
+  background: var(--color-cream);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-cream);
+  color: var(--color-ink);
+  font-size: var(--type-body);
+  font-weight: 400;
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+body.is-nav-open,
+body.is-dialog-open {
+  overflow: hidden;
+}
+
+main {
+  display: block;
+  min-block-size: 1px;
+}
+
+h1,
+h2,
+h3 {
+  max-inline-size: 38ch;
+  font-family: var(--font-display);
+  font-weight: 500;
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: var(--type-heading-1);
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: var(--type-heading-2);
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+}
+
+h3 {
+  font-size: var(--type-heading-3);
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+}
+
+p,
+li,
+dd {
+  max-inline-size: 66ch;
+}
+
+::selection {
+  background: var(--color-oat);
+  color: var(--color-ink);
+}
+
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+:focus-visible {
+  border-radius: var(--radius-control);
+  outline: 2px solid var(--color-gold);
+  outline-offset: 3px;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* Phase 6: keep in-page destinations clear of the sticky header. */
+section[id] {
+  scroll-margin-top: calc(var(--header-height) + var(--space-3));
+}

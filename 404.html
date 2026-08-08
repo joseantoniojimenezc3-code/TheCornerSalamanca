@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <meta name="theme-color" content="#f6f1e8">
+    <title>Página no encontrada | The Corner Salamanca</title>
+    <style>
+      :root { color-scheme: light; font-family: Arial, sans-serif; background: #f6f1e8; color: #1b1916; }
+      * { box-sizing: border-box; }
+      body { min-height: 100vh; margin: 0; display: grid; place-items: center; padding: 2rem; }
+      main { width: min(42rem, 100%); }
+      .brand { font-family: Georgia, serif; font-size: clamp(2rem, 9vw, 4.5rem); line-height: .9; text-transform: uppercase; }
+      .brand small { display: block; margin-top: .5rem; font: .25em Arial, sans-serif; letter-spacing: .32em; }
+      p { max-width: 34rem; margin: 3rem 0 2rem; font-size: 1.05rem; line-height: 1.7; }
+      a { display: inline-block; padding: .9rem 1.25rem; border: 1px solid #1b1916; color: #fffdf8; background: #1b1916; text-decoration: none; letter-spacing: .1em; text-transform: uppercase; font-size: .75rem; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="brand">The Corner<small>Salamanca</small></div>
+      <p>Esta página no existe. Vuelve a The Corner Salamanca para consultar nuestra carta, horario y cómo llegar.</p>
+      <a data-home-link href="./">Volver a The Corner</a>
+    </main>
+    <script>
+      const link = document.querySelector('[data-home-link]');
+      if (location.hostname.endsWith('github.io')) link.href = '/TheCornerSalamanca/';
+      else link.href = '/';
+    </script>
+  </body>
+</html>
